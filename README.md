@@ -36,3 +36,18 @@ Here are a few of the projects I've been working on:
 - Super Admin , Mini Admin and User three roles and each role have their different features assigned to them as per their role based authentication.
 - This Application has realtime  short polling feature which polls the data from admin_server to client_server and displays real time gaming data to various users concurrently with blink indication on market update. 
 - Mini Admin can transfer their Market to other Mini Admins when they're buzy in some other work and they can look the status of all markets currently being played.
+- Dockerized the Application and setup nginx reverse proxy along with process manager for node pm2 and deployed the application by scaling the worker nodes to maximum server instances.
+
+
+
+
+### [Socket Apps ](https://github.com/pp641/FileSharing)
+
+**Description**: A Set of Web Applications built on the top of WebSockets which has real life use cases in our day to day work.
+
+**Key Features**
+- A P2P File Sharing Application which can share the files over a common websocket server.
+- A P2P chat sharing text over websocket server where we can share common text over server.
+- A whiteboard to share common drawing over P2P server.
+
+
