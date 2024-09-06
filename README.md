@@ -3,7 +3,7 @@
 
   
 
-# Hi, I'm [Prajjwal Pandey] 👋
+# Hi, I'm Prajjwal Pandey 👋
 
 I'm a passionate Software Engineer with a love for Building Full Stack Applications which involve creative and out of box thinking. I enjoy working with JavaScript, Ruby on Rails,C++ etc , and I'm constantly learning new things.
 I bring over 3.5 years of work experience on table.
