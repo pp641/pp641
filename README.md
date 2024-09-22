@@ -8,7 +8,7 @@
 I'm a passionate Software Engineer with a love for Building Full Stack Applications which involve creative and out of box thinking. I enjoy working with JavaScript, Ruby on Rails,C++ etc , and I'm constantly learning new things.
 I bring over 3.5 years of work experience on table.
 
-- 🔭 I’m currently working on a Freelancing Project and  learning about WebSockets and their Applications.  Exploring new Design Patterns used in Industry and exploring it.
+- 🔭 I’m currently working on a Freelancing Project and  learning about WebSockets and their Applications.  Exploring new Design Patterns used in Industry and Implementing it.
 - 🌱 I’m Proficient in Javascript, Nodejs , Ruby on Rails , Mongodb , React js , Typescript , C++ , System Design , Data Structures and Algorithms, Object Oriented Design , Design Patterns , AWS, GCP,Docker,Nginx.
 - 🤔 I’m looking for a Full Time Role.
 - 💬 Ask me about  Api Designing and Best Practices for Api Design , MVC Patterns, Schema Design.
